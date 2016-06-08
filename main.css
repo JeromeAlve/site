@@ -1,0 +1,77 @@
+
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+
+ /* background-image:url('http://wallpapers-hd-wide.com/wp-content/uploads/2015/11/simple_dark_blue_desktop_background-wallpaper-1920x1080.jpg');*/
+  background-image:url('http://eskipaper.com/images/animated-gifs-1.jpg');
+  /*height: 650px;*/
+  background-size: 100% auto;
+}
+
+.jumbotron .container {
+  position: top;
+  top:100px;
+}
+/*
+.jumbotron .container img{
+  float: right;
+  width: 300px;
+  height: 460px;
+  background: #555;
+}
+*/
+.jumbotron h1 {
+  color: #FFFFFF;
+  font-size: 100px;  
+  font-family: "Lucida Grande", Tahoma;
+  font-weight: 100;
+  font-variant: normal;
+  text-transform: uppercase;
+  margin-top: 10px;
+}
+
+.jumbotron p {
+  font-size: 18px;
+  color: #fff;
+}
+
+.myapps {
+  background-color: #f7f7f7;
+}
+
+.myapps h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.myapps a {
+  color: #00b0ff;
+}
+
+.my-projects {
+  background-color: #efefef;
+  border-bottom:1px solid #dbdbdb;
+}
+
+.my-projects h2 {
+  color: #393c3d;
+  font-size: 24px;
+}
+
+.my-projects p {
+  margin-bottom: 13px;
+  font-size: 15px;
+}
